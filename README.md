@@ -1,2 +1,2 @@
 # Bike_Sharing_Demand_Prediction
-Mentormind Internship
+Mentormind Internship project
